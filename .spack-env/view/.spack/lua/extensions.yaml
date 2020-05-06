@@ -1,0 +1,13 @@
+extensions:
+- lua-bitlib:
+    hash: rksm4p6tmfwmw2hmoad2g3yztr3sa25y
+    path: /lore/mersoj/spack/spack/opt/spack/linux-rhel7-x86_64/gcc-7.3.0/lua-bitlib-23-2-rksm4p6tmfwmw2hmoad2g3yztr3sa25y
+- lua-lpeg:
+    hash: clnipsorqaubsfykxgfxxjdoxwrin6ai
+    path: /lore/mersoj/spack/spack/opt/spack/linux-rhel7-x86_64/gcc-7.3.0/lua-lpeg-0.12-1-clnipsorqaubsfykxgfxxjdoxwrin6ai
+- lua-luv:
+    hash: ie3kznpz7yj6tocv4jjqjfbsbj7nvjmh
+    path: /lore/mersoj/spack/spack/opt/spack/linux-rhel7-x86_64/gcc-7.3.0/lua-luv-1.36.0-0-ie3kznpz7yj6tocv4jjqjfbsbj7nvjmh
+- lua-mpack:
+    hash: fiape7vkxibwe2ufwa3e467gzt3qyyh6
+    path: /lore/mersoj/spack/spack/opt/spack/linux-rhel7-x86_64/gcc-7.3.0/lua-mpack-1.0.6-0-fiape7vkxibwe2ufwa3e467gzt3qyyh6
